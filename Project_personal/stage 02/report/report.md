@@ -85,7 +85,6 @@ Damn Vulnerable Web Application (DVWA) – это веб-приложение PH
 
 # Выполнение лабораторной работы
 
-
 Для начала скачаем последнюю версию из репозитория командой (рис. [-@fig:001]):
 
 ![Git Clone](image/screenshot-01.jpg){#fig:001 width=70%}
